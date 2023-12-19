@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// EventArgs used for the <see cref="HamburgerMenu.ItemClick"/> and <see cref="HamburgerMenu.OptionsItemClick"/> events.

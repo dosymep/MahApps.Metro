@@ -13,10 +13,10 @@ using System.Windows.Media.Animation;
 using System.Windows.Threading;
 using ControlzEx;
 using ControlzEx.Theming;
-using MahApps.Metro.Automation.Peers;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A sliding panel control that is hosted in a <see cref="MetroWindow"/> via a <see cref="FlyoutsControl"/>.

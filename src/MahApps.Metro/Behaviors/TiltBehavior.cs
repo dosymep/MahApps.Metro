@@ -9,11 +9,11 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using ControlzEx.Theming;
-using MahApps.Metro.Controls;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class TiltBehavior : Behavior<FrameworkElement>
     {

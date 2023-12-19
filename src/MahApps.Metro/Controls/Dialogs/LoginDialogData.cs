@@ -5,7 +5,7 @@
 using System;
 using System.Security;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     public class LoginDialogData
     {

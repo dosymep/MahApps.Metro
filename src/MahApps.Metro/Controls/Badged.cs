@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Media.Animation;
 using ControlzEx;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = BadgeContainerPartName, Type = typeof(UIElement))]
     public class Badged : BadgedEx

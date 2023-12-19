@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Animation;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = "PART_Scroll", Type = typeof(ScrollViewer))]
     [TemplatePart(Name = "PART_Headers", Type = typeof(ListView))]

@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// The HamburgerMenuIconItem provides an icon based implementation for HamburgerMenu entries.

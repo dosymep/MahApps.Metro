@@ -4,7 +4,7 @@
 
 namespace MetroDemo.ExampleWindows
 {
-    using MahApps.Metro.Controls;
+    using pyRevitLabs.MahAppsMetro.Controls;
 
     public sealed partial class ShowcaseFlyout : Flyout
     {

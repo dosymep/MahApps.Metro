@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Windows;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     using System.ComponentModel;
 

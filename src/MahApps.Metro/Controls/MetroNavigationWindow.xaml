@@ -1,7 +1,7 @@
-﻿<mah:MetroWindow x:Class="MahApps.Metro.Controls.MetroNavigationWindow"
+﻿<mah:MetroWindow x:Class="pyRevitLabs.MahAppsMetro.Controls.MetroNavigationWindow"
                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                 xmlns:mah="clr-namespace:MahApps.Metro.Controls"
+                 xmlns:mah="clr-namespace:pyRevitLabs.MahAppsMetro.Controls"
                  GlowBrush="{DynamicResource MahApps.Brushes.Accent}">
 
     <Grid>

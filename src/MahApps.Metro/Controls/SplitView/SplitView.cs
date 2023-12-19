@@ -10,9 +10,9 @@ using System.Windows.Input;
 using System.Windows.Markup;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     ///     Represents a container with two views; one view for the main content and another view that is typically used for

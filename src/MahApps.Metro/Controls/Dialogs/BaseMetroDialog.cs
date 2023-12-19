@@ -12,9 +12,9 @@ using System.Windows.Controls;
 using System.Windows.Media.Animation;
 using ControlzEx.Theming;
 using JetBrains.Annotations;
-using MahApps.Metro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// The base class for dialogs.

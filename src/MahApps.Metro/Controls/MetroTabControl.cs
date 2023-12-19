@@ -11,9 +11,9 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using ControlzEx.Controls;
 using JetBrains.Annotations;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A standard MetroTabControl (Pivot).
@@ -21,7 +21,7 @@ namespace MahApps.Metro.Controls
     public class MetroTabControl : BaseMetroTabControl
     {
         /// <summary>
-        /// Initializes a new instance of the MahApps.Metro.Controls.MetroTabControl class.
+        /// Initializes a new instance of the pyRevitLabs.MahAppsMetro.Controls.MetroTabControl class.
         /// </summary>
         static MetroTabControl()
         {

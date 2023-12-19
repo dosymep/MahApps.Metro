@@ -4,7 +4,7 @@
 
 using System.Windows.Controls;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Represents the base class for an icon UI element.

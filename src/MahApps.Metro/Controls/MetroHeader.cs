@@ -5,9 +5,9 @@
 using System.Windows;
 using System.Windows.Automation.Peers;
 using System.Windows.Controls;
-using MahApps.Metro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class MetroHeader : GroupBox
     {

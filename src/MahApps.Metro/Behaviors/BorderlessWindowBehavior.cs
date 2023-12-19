@@ -5,10 +5,10 @@
 using System.Windows;
 using System.Windows.Data;
 using ControlzEx.Behaviors;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 using ControlzEx.Windows.Shell;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class BorderlessWindowBehavior : WindowChromeBehavior
     {

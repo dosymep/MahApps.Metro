@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Threading;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class Extensions
     {

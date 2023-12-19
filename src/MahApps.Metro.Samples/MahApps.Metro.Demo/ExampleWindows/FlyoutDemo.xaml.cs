@@ -4,8 +4,8 @@
 
 using System;
 using System.Windows;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Controls.Dialogs;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls.Dialogs;
 
 namespace MetroDemo.ExampleWindows
 {
@@ -184,7 +184,7 @@ namespace MetroDemo.ExampleWindows
 
         private async void ClickMeOnClick(object sender, RoutedEventArgs e)
         {
-            await this.ShowMessageAsync("Title Template Test", "Thx for using MahApps.Metro!!!");
+            await this.ShowMessageAsync("Title Template Test", "Thx for using pyRevitLabs.MahAppsMetro!!!");
         }
 
         private void TopFlyoutCloseButtonOnClick(object sender, RoutedEventArgs e)

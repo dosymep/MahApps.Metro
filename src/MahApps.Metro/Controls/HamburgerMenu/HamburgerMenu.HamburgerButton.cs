@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Automation;
 using System.Windows.Controls;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [StyleTypedProperty(Property = nameof(HamburgerButtonStyle), StyleTargetType = typeof(Button))]
     public partial class HamburgerMenu

@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     [ValueConversion(typeof(double), typeof(GridLength))]
     public sealed class PercentageToGridLengthConverter : IValueConverter

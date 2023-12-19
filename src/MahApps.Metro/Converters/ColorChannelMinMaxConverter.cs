@@ -8,7 +8,7 @@ using System.Windows.Media;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Channel type for ColorChannelMinMaxConverter to pass in in as parameter.

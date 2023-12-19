@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:converters="clr-namespace:MahApps.Metro.Converters"
-                    xmlns:mah="clr-namespace:MahApps.Metro.Controls">
+                    xmlns:converters="clr-namespace:pyRevitLabs.MahAppsMetro.Converters"
+                    xmlns:mah="clr-namespace:pyRevitLabs.MahAppsMetro.Controls">
 
     <Style TargetType="mah:Tile">
         <Setter Property="Background" Value="{DynamicResource MahApps.Brushes.Accent}" />

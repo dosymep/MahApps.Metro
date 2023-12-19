@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:mah="clr-namespace:MahApps.Metro.Controls">
+                    xmlns:mah="clr-namespace:pyRevitLabs.MahAppsMetro.Controls">
 
     <ControlTemplate x:Key="MahApps.Templates.Button.WindowCommands" TargetType="{x:Type Button}">
         <Grid Background="{TemplateBinding Background}">

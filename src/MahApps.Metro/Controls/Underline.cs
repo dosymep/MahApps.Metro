@@ -6,7 +6,7 @@ using System;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = UnderlineBorderPartName, Type = typeof(Border))]
     public class Underline : ContentControl

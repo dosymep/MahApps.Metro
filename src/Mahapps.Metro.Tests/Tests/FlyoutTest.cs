@@ -11,11 +11,11 @@ using System.Windows.Media;
 using System.Windows.Threading;
 using ControlzEx.Theming;
 using ExposedObject;
-using MahApps.Metro.Tests.TestHelpers;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Tests.TestHelpers;
+using pyRevitLabs.MahAppsMetro.Controls;
 using Xunit;
 
-namespace MahApps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public class FlyoutTest : AutomationTestBase
     {

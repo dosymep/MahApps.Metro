@@ -1,4 +1,4 @@
-﻿<mah:MetroWindow x:Class="MahApps.Metro.Tests.FlyoutWindow"
+﻿<mah:MetroWindow x:Class="pyRevitLabs.MahAppsMetro.Tests.FlyoutWindow"
                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -32,7 +32,7 @@
     <Grid>
         <Image Width="200">
             <Image.Source>
-                <BitmapImage UriSource="/Mahapps.Metro.Tests;component/mahapps.metro.logo2.ico" />
+                <BitmapImage UriSource="/pyRevitLabs.MahAppsMetro.Tests;component/pyRevitLabs.MahAppsMetro.logo2.ico" />
             </Image.Source>
         </Image>
 

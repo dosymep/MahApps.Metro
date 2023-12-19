@@ -9,7 +9,7 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     public class BackgroundToForegroundConverter : IValueConverter, IMultiValueConverter
     {

@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Converts a CornerRadius to a new CornerRadius. It's possible to ignore a side with the IgnoreRadius property.

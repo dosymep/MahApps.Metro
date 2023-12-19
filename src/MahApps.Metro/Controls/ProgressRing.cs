@@ -6,9 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplateVisualState(Name = "Large", GroupName = "SizeStates")]
     [TemplateVisualState(Name = "Small", GroupName = "SizeStates")]

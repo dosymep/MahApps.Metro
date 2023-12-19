@@ -5,7 +5,7 @@
 using System;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Converts the value from true to false and false to true.

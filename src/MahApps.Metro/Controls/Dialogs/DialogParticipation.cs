@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     public static class DialogParticipation
     {

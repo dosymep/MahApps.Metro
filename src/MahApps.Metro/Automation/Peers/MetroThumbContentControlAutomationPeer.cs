@@ -5,10 +5,10 @@
 using System.Windows;
 using System.Windows.Automation.Peers;
 
-namespace MahApps.Metro.Automation.Peers
+namespace pyRevitLabs.MahAppsMetro.Automation.Peers
 {
     /// <summary>
-    /// The MetroThumbContentControlAutomationPeer class exposes the <see cref="T:MahApps.Metro.Controls.MetroThumbContentControl" /> type to UI Automation.
+    /// The MetroThumbContentControlAutomationPeer class exposes the <see cref="T:pyRevitLabs.MahAppsMetro.Controls.MetroThumbContentControl" /> type to UI Automation.
     /// </summary>
     public class MetroThumbContentControlAutomationPeer : FrameworkElementAutomationPeer
     {

@@ -4,7 +4,7 @@
 
 using System;
 using System.Windows.Threading;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 using Microsoft.Xaml.Behaviors;
 
 namespace MetroDemo.Behaviors

@@ -8,7 +8,7 @@
                  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                  xmlns:theming="urn:controlzex"
-                 Title="MahApps.Metro - Demo Application"
+                 Title="pyRevitLabs.MahAppsMetro - Demo Application"
                  Width="900"
                  Height="600"
                  d:DataContext="{d:DesignInstance local:MainWindowViewModel}"
@@ -17,7 +17,7 @@
                  mah:DialogParticipation.Register="{Binding}"
                  Closing="MetroWindow_Closing"
                  GlowBrush="{DynamicResource MahApps.Brushes.Accent}"
-                 Icon="mahapps.metro.logo2.ico"
+                 Icon="pyRevitLabs.MahAppsMetro.logo2.ico"
                  NonActiveGlowBrush="#CDFF0000"
                  ShowIconOnTitleBar="True"
                  ShowTitleBar="{Binding ShowMyTitleBar, Mode=TwoWay}"
@@ -105,7 +105,7 @@
 
     <mah:MetroWindow.LeftWindowCommands>
         <mah:WindowCommands>
-            <Button Click="LaunchMahAppsOnGitHub" ToolTip="MahApps.Metro on GitHub">
+            <Button Click="LaunchMahAppsOnGitHub" ToolTip="pyRevitLabs.MahAppsMetro on GitHub">
                 <iconPacks:PackIconModern Width="22"
                                           Height="22"
                                           Kind="SocialGithubOctocat" />
@@ -344,7 +344,7 @@
         </mah:MetroAnimatedSingleRowTabControl>
 
         <StatusBar Grid.Row="2">
-            <StatusBarItem>MahApps.Metro DEMO Application</StatusBarItem>
+            <StatusBarItem>pyRevitLabs.MahAppsMetro DEMO Application</StatusBarItem>
             <Separator Style="{StaticResource MahApps.Styles.Separator.StatusBar}" />
             <StatusBarItem>Selected Tab:</StatusBarItem>
             <StatusBarItem Content="{Binding ElementName=MainTabControl, Path=SelectedItem.Header, Mode=OneWay}" />

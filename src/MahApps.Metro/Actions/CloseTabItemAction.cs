@@ -6,9 +6,9 @@ using System;
 using System.Collections;
 using System.Linq;
 using System.Windows.Controls;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
-namespace MahApps.Metro.Actions
+namespace pyRevitLabs.MahAppsMetro.Actions
 {
     public class CloseTabItemAction : CommandTriggerAction
     {

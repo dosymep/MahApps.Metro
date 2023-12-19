@@ -5,9 +5,9 @@
 using System.Threading;
 using System.Windows;
 using System.Windows.Media;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// An internal control that represents a message dialog. Please use MetroWindow.ShowMessage instead!

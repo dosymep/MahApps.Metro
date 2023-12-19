@@ -8,7 +8,7 @@
                  Width="800"
                  Height="400"
                  GlowBrush="{DynamicResource MahApps.Brushes.Accent}"
-                 Icon="..\mahapps.metro.logo2.ico"
+                 Icon="..\pyRevitLabs.MahAppsMetro.logo2.ico"
                  ResizeMode="CanResizeWithGrip"
                  ShowIconOnTitleBar="True"
                  Style="{DynamicResource MahApps.Styles.MetroWindow.Clean}">
@@ -16,7 +16,7 @@
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Clean/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/pyRevitLabs.MahAppsMetro;component/Styles/Clean/Controls.xaml" />
             </ResourceDictionary.MergedDictionaries>
 
             <ObjectDataProvider x:Key="HorizontalAlignmentEnumValues"
@@ -216,7 +216,7 @@
         </Grid>
 
         <StatusBar Grid.Row="2">
-            <StatusBarItem>MahApps.Metro Clean Window</StatusBarItem>
+            <StatusBarItem>pyRevitLabs.MahAppsMetro Clean Window</StatusBarItem>
             <Separator Style="{StaticResource MahApps.Styles.Separator.Clean}" />
             <StatusBarItem>Some stuff</StatusBarItem>
         </StatusBar>

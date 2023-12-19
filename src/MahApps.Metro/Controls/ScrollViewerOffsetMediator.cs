@@ -5,7 +5,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class ScrollViewerOffsetMediator : FrameworkElement
     {

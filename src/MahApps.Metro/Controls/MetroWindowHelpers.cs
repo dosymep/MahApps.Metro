@@ -13,7 +13,7 @@ using ControlzEx.Theming;
 using ControlzEx.Windows.Shell;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// This class eats little children.

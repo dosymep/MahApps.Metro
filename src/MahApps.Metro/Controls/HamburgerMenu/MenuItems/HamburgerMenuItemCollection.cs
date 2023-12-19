@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// The HamburgerMenuItemCollection provides typed collection of HamburgerMenuItemBase.

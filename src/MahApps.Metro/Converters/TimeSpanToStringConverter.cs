@@ -6,7 +6,7 @@ using System;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     [ValueConversion(typeof(TimeSpan?), typeof(string))]
     internal class TimeSpanToStringConverter : IValueConverter

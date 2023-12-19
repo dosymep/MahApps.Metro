@@ -16,10 +16,10 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Windows.Data;
 using JetBrains.Annotations;
-using MahApps.Metro.Behaviors;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Behaviors;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     internal enum SpellingResourceKeyId
     {

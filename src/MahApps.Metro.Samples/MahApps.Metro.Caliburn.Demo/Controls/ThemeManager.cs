@@ -17,7 +17,7 @@ namespace Caliburn.Metro.Demo.Controls
         {
             this.themeResources = new ResourceDictionary
                                   {
-                                      Source = new Uri("pack://application:,,,/MahApps.Metro.Caliburn.Demo;component/Resources/Theme1.xaml")
+                                      Source = new Uri("pack://application:,,,/pyRevitLabs.MahAppsMetro.Caliburn.Demo;component/Resources/Theme1.xaml")
                                   };
         }
 

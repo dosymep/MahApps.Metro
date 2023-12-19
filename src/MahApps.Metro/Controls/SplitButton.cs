@@ -10,9 +10,9 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Input;
 using System.Windows.Markup;
 using System.Windows.Media;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [ContentProperty(nameof(ItemsSource))]
     [TemplatePart(Name = "PART_Container", Type = typeof(Grid))]

@@ -9,11 +9,11 @@ using System.Reflection;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Documents;
-using MahApps.Metro.Controls;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class PasswordBoxBindingBehavior : Behavior<PasswordBox>
     {

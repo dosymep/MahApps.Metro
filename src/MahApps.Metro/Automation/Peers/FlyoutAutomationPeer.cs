@@ -3,9 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Windows.Automation.Peers;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
-namespace MahApps.Metro.Automation.Peers
+namespace pyRevitLabs.MahAppsMetro.Automation.Peers
 {
     public class FlyoutAutomationPeer : FrameworkElementAutomationPeer
     {

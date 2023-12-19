@@ -8,10 +8,10 @@ using System.Windows.Controls.Primitives;
 using System.Windows;
 using System.Windows.Automation.Peers;
 using System.Windows.Input;
-using MahApps.Metro.Automation.Peers;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// The MetroThumbContentControl control can be used for titles or something else and enables basic drag movement functionality.

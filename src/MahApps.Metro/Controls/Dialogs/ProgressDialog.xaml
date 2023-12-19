@@ -1,8 +1,8 @@
-﻿<dialogs:BaseMetroDialog x:Class="MahApps.Metro.Controls.Dialogs.ProgressDialog"
+﻿<dialogs:BaseMetroDialog x:Class="pyRevitLabs.MahAppsMetro.Controls.Dialogs.ProgressDialog"
                          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                         xmlns:dialogs="clr-namespace:MahApps.Metro.Controls.Dialogs"
-                         xmlns:mah="clr-namespace:MahApps.Metro.Controls"
+                         xmlns:dialogs="clr-namespace:pyRevitLabs.MahAppsMetro.Controls.Dialogs"
+                         xmlns:mah="clr-namespace:pyRevitLabs.MahAppsMetro.Controls"
                          Cursor="Wait">
     <dialogs:BaseMetroDialog.Content>
         <Grid>

@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Represents an icon that uses a glyph from the specified font.

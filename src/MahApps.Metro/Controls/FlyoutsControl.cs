@@ -10,9 +10,9 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using ControlzEx;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A FlyoutsControl is for displaying flyouts in a <see cref="MetroWindow"/>.

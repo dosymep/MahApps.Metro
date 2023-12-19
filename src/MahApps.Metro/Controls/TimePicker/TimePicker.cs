@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Threading;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     ///     Represents a control that allows the user to select a time.

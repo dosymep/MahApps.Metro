@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace MahApps.Metro
+namespace pyRevitLabs.MahAppsMetro
 {
     [Serializable]
     public class MahAppsException : Exception

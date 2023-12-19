@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// A class for manipulating an open ProgressDialog.

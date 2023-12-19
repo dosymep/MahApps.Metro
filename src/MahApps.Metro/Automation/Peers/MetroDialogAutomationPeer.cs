@@ -3,9 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Windows.Automation.Peers;
-using MahApps.Metro.Controls.Dialogs;
+using pyRevitLabs.MahAppsMetro.Controls.Dialogs;
 
-namespace MahApps.Metro.Automation.Peers
+namespace pyRevitLabs.MahAppsMetro.Automation.Peers
 {
     public class MetroDialogAutomationPeer : FrameworkElementAutomationPeer
     {

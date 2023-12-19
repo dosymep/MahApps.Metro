@@ -222,7 +222,7 @@
                     -->
                     <FlowDocument PageWidth="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type RichTextBox}}, Path=ActualWidth}">
                         <Paragraph>
-                            <Hyperlink NavigateUri="https://github.com/MahApps/MahApps.Metro">
+                            <Hyperlink NavigateUri="https://github.com/MahApps/pyRevitLabs.MahAppsMetro">
                                 <Run Text="Normal" />
                             </Hyperlink>
                             <LineBreak />
@@ -237,7 +237,7 @@
                              IsReadOnly="True">
                     <FlowDocument PageWidth="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type RichTextBox}}, Path=ActualWidth}">
                         <Paragraph>
-                            <Hyperlink NavigateUri="https://github.com/MahApps/MahApps.Metro">
+                            <Hyperlink NavigateUri="https://github.com/MahApps/pyRevitLabs.MahAppsMetro">
                                 <Run Text="ReadOnly" />
                             </Hyperlink>
                             <LineBreak />
@@ -252,7 +252,7 @@
                              IsEnabled="False">
                     <FlowDocument PageWidth="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type RichTextBox}}, Path=ActualWidth}">
                         <Paragraph>
-                            <Hyperlink NavigateUri="https://github.com/MahApps/MahApps.Metro">
+                            <Hyperlink NavigateUri="https://github.com/MahApps/pyRevitLabs.MahAppsMetro">
                                 <Run Text="Disabled" />
                             </Hyperlink>
                             <LineBreak />

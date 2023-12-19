@@ -6,7 +6,7 @@ using System;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Converts a double representing either hour/minute/second to the corresponding angle.

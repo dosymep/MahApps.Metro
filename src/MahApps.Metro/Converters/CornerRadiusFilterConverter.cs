@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Filters a CornerRadius by the given Filter property. Result can be a new CornerRadius or a value of it's 4 corners.

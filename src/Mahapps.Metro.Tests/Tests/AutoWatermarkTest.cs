@@ -3,12 +3,12 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Threading.Tasks;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Tests;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.Tests;
 using Xunit;
-using MahApps.Metro.Tests.TestHelpers;
+using pyRevitLabs.MahAppsMetro.Tests.TestHelpers;
 
-namespace Mahapps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public class AutoWatermarkTest : AutomationTestBase
     {

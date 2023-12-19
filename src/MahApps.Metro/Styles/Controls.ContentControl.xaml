@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:converters="clr-namespace:MahApps.Metro.Converters">
+                    xmlns:converters="clr-namespace:pyRevitLabs.MahAppsMetro.Converters">
 
     <Style x:Key="MahApps.Styles.ContentControl.FloatingMessageContainer" TargetType="{x:Type ContentControl}">
         <Setter Property="Focusable" Value="False" />

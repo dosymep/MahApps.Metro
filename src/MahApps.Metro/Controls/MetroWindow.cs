@@ -23,13 +23,13 @@ using ControlzEx.Native;
 using ControlzEx.Standard;
 using ControlzEx.Theming;
 using JetBrains.Annotations;
-using MahApps.Metro.Automation.Peers;
-using MahApps.Metro.Behaviors;
-using MahApps.Metro.Controls.Dialogs;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.Behaviors;
+using pyRevitLabs.MahAppsMetro.Controls.Dialogs;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// An extended, metrofied Window class.
@@ -950,7 +950,7 @@ namespace MahApps.Metro.Controls
         }
 
         /// <summary>
-        /// Initializes a new instance of the MahApps.Metro.Controls.MetroWindow class.
+        /// Initializes a new instance of the pyRevitLabs.MahAppsMetro.Controls.MetroWindow class.
         /// </summary>
         public MetroWindow()
         {

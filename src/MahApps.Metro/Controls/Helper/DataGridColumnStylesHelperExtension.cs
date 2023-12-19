@@ -11,7 +11,7 @@ using System.Windows.Data;
 using System.Windows.Markup;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public interface IDataGridColumnStylesHelper
     {

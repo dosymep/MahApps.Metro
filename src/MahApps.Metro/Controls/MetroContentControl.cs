@@ -5,9 +5,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Animation;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A ContentControl which use a transition to slide in the content.

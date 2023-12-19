@@ -5,10 +5,10 @@
 using System.Threading.Tasks;
 using System.Windows.Media;
 using ControlzEx.Theming;
-using MahApps.Metro.Tests.TestHelpers;
+using pyRevitLabs.MahAppsMetro.Tests.TestHelpers;
 using Xunit;
 
-namespace MahApps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public class CleanWindowTest : AutomationTestBase
     {

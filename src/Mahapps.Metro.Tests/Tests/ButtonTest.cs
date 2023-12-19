@@ -5,11 +5,11 @@
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Tests.TestHelpers;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.Tests.TestHelpers;
 using Xunit;
 
-namespace MahApps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public class ButtonTest : AutomationTestBase
     {

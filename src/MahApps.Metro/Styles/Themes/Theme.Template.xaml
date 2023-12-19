@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:markup="clr-namespace:MahApps.Metro.Markup"
-                    xmlns:markupWithAssembly="clr-namespace:MahApps.Metro.Markup;assembly=MahApps.Metro"
+                    xmlns:markup="clr-namespace:pyRevitLabs.MahAppsMetro.Markup"
+                    xmlns:markupWithAssembly="clr-namespace:pyRevitLabs.MahAppsMetro.Markup;assembly=pyRevitLabs.MahAppsMetro"
                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                     xmlns:options="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options"
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
@@ -9,7 +9,7 @@
 
     <!--  Matadata  -->
     <system:String x:Key="Theme.Name">{{ThemeName}}</system:String>
-    <system:String x:Key="Theme.Origin">MahApps.Metro</system:String>
+    <system:String x:Key="Theme.Origin">pyRevitLabs.MahAppsMetro</system:String>
     <system:String x:Key="Theme.DisplayName">{{ThemeDisplayName}}</system:String>
     <system:String x:Key="Theme.BaseColorScheme">{{BaseColorScheme}}</system:String>
     <system:String x:Key="Theme.ColorScheme">{{ColorScheme}}</system:String>

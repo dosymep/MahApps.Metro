@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A few very useful extension methods

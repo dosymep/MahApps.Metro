@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = "PART_SaturationValueBox", Type = typeof(Control))]
     [TemplatePart(Name = "PART_ColorEyeDropper", Type = typeof(ColorEyeDropper))]

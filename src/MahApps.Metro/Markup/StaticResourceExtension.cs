@@ -5,7 +5,7 @@
 using System.Windows;
 using System.Windows.Markup;
 
-namespace MahApps.Metro.Markup
+namespace pyRevitLabs.MahAppsMetro.Markup
 {
     /// <summary>
     /// Implements a markup extension that supports static (XAML load time) resource references made from XAML.

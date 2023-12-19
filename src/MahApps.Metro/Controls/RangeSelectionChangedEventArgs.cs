@@ -5,7 +5,7 @@
 using System;
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// This delegate must used by handlers of the RangeSelectionChangedEvent event.

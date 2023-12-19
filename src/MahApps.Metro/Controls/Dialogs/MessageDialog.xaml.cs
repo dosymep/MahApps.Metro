@@ -9,7 +9,7 @@ using System.Windows;
 using System.Windows.Input;
 using ControlzEx;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// An internal control that represents a message dialog. Please use MetroWindow.ShowMessage instead!

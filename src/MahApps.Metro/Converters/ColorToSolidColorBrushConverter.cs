@@ -4,7 +4,7 @@ using System.Windows.Data;
 using System.Windows.Media;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// Converts a given <see cref="Color"/> into a <see cref="SolidColorBrush"/>.

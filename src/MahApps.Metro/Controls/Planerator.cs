@@ -9,7 +9,7 @@ using System.Windows.Markup;
 using System.Windows.Media;
 using System.Windows.Media.Media3D;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     ///   Based on Greg Schechter's Planerator

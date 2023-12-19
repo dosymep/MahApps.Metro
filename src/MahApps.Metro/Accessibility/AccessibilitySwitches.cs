@@ -7,7 +7,7 @@ using System;
 using System.Runtime.CompilerServices;
 #endif
 
-namespace MahApps.Metro.Accessibility
+namespace pyRevitLabs.MahAppsMetro.Accessibility
 {
     public static class AccessibilitySwitches
     {

@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Threading;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = "PART_Min", Type = typeof(Button))]
     [TemplatePart(Name = "PART_Max", Type = typeof(Button))]

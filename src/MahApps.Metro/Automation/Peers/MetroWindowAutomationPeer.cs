@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Automation.Peers;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Automation.Peers
+namespace pyRevitLabs.MahAppsMetro.Automation.Peers
 {
     public class MetroWindowAutomationPeer : WindowAutomationPeer
     {

@@ -10,11 +10,11 @@ using System.Threading;
 using System.Windows;
 using System.Windows.Threading;
 using ControlzEx.Theming;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 using Xunit;
 using Xunit.Sdk;
 
-namespace MahApps.Metro.Tests.TestHelpers
+namespace pyRevitLabs.MahAppsMetro.Tests.TestHelpers
 {
     public class ApplicationFixture : IDisposable
     {

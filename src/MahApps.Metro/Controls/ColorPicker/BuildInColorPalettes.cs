@@ -8,7 +8,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class BuildInColorPalettes
     {

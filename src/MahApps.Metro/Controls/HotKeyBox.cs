@@ -10,9 +10,9 @@ using System.Windows.Interop;
 using System.Windows.Controls;
 using ControlzEx.Native;
 using ControlzEx.Standard;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = PART_TextBox, Type = typeof(TextBox))]
     public class HotKeyBox : Control

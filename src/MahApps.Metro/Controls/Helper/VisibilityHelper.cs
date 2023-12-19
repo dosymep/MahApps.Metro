@@ -5,7 +5,7 @@
 using System.ComponentModel;
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class VisibilityHelper
     {

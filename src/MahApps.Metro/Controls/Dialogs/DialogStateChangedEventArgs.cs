@@ -4,7 +4,7 @@
 
 using System;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     public class DialogStateChangedEventArgs : EventArgs
     {

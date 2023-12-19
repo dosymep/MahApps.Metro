@@ -5,7 +5,7 @@
 using System;
 using System.Collections;
 using System.Windows.Controls;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
 namespace MetroDemo.ExampleViews
 {

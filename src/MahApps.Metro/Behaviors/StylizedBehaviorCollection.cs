@@ -5,7 +5,7 @@
 using System.Windows;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class StylizedBehaviorCollection : FreezableCollection<Behavior>
     {

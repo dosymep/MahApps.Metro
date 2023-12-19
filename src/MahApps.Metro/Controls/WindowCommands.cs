@@ -13,10 +13,10 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using ControlzEx;
 using ControlzEx.Theming;
-using MahApps.Metro.Automation.Peers;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [StyleTypedProperty(Property = nameof(ItemContainerStyle), StyleTargetType = typeof(WindowCommands))]
     public class WindowCommands : ToolBar

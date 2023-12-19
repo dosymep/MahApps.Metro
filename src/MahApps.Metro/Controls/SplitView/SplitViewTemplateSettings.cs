@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     ///     Provides calculated values that can be referenced as TemplatedParent sources when defining templates for a

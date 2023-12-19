@@ -10,7 +10,7 @@ using System.Windows.Interop;
 using System.Windows.Media;
 using ControlzEx.Standard;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class WinApiHelper
     {

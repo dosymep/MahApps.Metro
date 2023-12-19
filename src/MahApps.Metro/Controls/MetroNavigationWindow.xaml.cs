@@ -9,7 +9,7 @@ using System.Windows.Controls;
 using System.Windows.Markup;
 using System.Windows.Navigation;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A reimplementation of NavigationWindow based on MetroWindow.

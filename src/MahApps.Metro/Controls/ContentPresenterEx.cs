@@ -7,7 +7,7 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using ControlzEx.Windows.Shell;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class ContentPresenterEx : ContentPresenter
     {

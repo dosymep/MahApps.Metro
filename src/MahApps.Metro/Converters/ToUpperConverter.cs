@@ -8,7 +8,7 @@ using System.Globalization;
 using System.Windows.Data;
 using System.Windows.Markup;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     [MarkupExtensionReturnType(typeof(ToUpperConverter))]
     public class ToUpperConverter : MarkupConverter

@@ -5,9 +5,9 @@
 using System.Windows;
 using System.Windows.Automation.Peers;
 using JetBrains.Annotations;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
-namespace MahApps.Metro.Automation.Peers
+namespace pyRevitLabs.MahAppsMetro.Automation.Peers
 {
     public class WindowCommandsAutomationPeer : FrameworkElementAutomationPeer
     {

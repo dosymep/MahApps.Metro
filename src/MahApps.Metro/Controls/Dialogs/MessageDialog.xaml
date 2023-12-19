@@ -1,7 +1,7 @@
-﻿<dialogs:BaseMetroDialog x:Class="MahApps.Metro.Controls.Dialogs.MessageDialog"
+﻿<dialogs:BaseMetroDialog x:Class="pyRevitLabs.MahAppsMetro.Controls.Dialogs.MessageDialog"
                          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                         xmlns:dialogs="clr-namespace:MahApps.Metro.Controls.Dialogs">
+                         xmlns:dialogs="clr-namespace:pyRevitLabs.MahAppsMetro.Controls.Dialogs">
     <dialogs:BaseMetroDialog.CommandBindings>
         <CommandBinding Command="Copy" Executed="OnKeyCopyExecuted" />
     </dialogs:BaseMetroDialog.CommandBindings>

@@ -6,10 +6,10 @@ using System;
 using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
-using MahApps.Metro.Converters;
+using pyRevitLabs.MahAppsMetro.Converters;
 using Xunit;
 
-namespace MahApps.Metro.Tests.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests.Tests
 {
     public class MathConverterTests
     {

@@ -5,9 +5,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// An extended TabItem with a metro style.

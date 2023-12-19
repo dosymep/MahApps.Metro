@@ -8,10 +8,10 @@ using System.Windows;
 using System.Windows.Interop;
 using ControlzEx.Native;
 using ControlzEx.Standard;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class WindowsSettingBehavior : Behavior<MetroWindow>
     {

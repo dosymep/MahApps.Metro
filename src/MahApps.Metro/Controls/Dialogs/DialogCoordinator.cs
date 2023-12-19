@@ -6,7 +6,7 @@ using System;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     public class DialogCoordinator : IDialogCoordinator
     {

@@ -11,7 +11,7 @@ using System.Windows;
 using System.Windows.Markup;
 using JetBrains.Annotations;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     /// <summary>
     /// The math operations which can be used at the <see cref="MathConverter"/>

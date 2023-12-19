@@ -9,7 +9,7 @@ using System.Reflection;
 using System.Windows;
 using Caliburn.Metro.Demo.Services;
 using Caliburn.Micro;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
 namespace Caliburn.Metro.Demo.Controls
 {

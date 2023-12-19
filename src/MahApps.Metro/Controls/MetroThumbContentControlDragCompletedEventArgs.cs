@@ -4,7 +4,7 @@
 
 using System.Windows.Controls.Primitives;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class MetroThumbContentControlDragCompletedEventArgs : DragCompletedEventArgs
     {

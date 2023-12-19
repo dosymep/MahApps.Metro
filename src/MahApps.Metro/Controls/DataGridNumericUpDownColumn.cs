@@ -11,7 +11,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class DataGridNumericUpDownColumn : DataGridBoundColumn
     {

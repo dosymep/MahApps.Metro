@@ -4,7 +4,7 @@
 
 using System.Windows;
 
-namespace MahApps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public partial class TestApp : Application
     {

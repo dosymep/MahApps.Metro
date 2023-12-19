@@ -6,9 +6,9 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
 using System.Windows.Input;
-using MahApps.Metro.Behaviors;
+using pyRevitLabs.MahAppsMetro.Behaviors;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class MahAppsCommands
     {

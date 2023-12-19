@@ -4,7 +4,7 @@
 
 using System;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Enum NumericInput which indicates what input is allowed for NumericUpdDown.

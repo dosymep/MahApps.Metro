@@ -4,7 +4,7 @@
 
 using System;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Defines the visibility for time-parts that are visible for the <see cref="DateTimePicker"/>. 

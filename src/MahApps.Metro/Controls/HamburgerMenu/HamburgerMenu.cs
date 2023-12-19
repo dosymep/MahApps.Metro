@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Controls;
 using ControlzEx;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// The HamburgerMenu is based on a <see cref="SplitView"/> control. By default it contains a HamburgerButton and a ListView to display menu items.

@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     public class MetroTabItemCloseButtonWidthConverter : IValueConverter
     {

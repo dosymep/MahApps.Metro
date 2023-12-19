@@ -3,7 +3,7 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Windows.Controls;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
 namespace MetroDemo.ExampleViews
 {

@@ -11,10 +11,10 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Input;
 using System.Windows.Markup;
 using System.Windows.Media;
-using MahApps.Metro.Automation.Peers;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.Automation.Peers;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// A control that allows the user to toggle between two states: One represents true; The other represents false.

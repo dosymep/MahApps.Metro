@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     // this converter is only used by DatePicker to convert the font size to width and height of the icon button
     public class FontSizeOffsetConverter : IValueConverter

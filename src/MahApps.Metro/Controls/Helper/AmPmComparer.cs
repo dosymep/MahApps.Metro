@@ -4,7 +4,7 @@
 
 using System.Collections.Generic;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Represents an hour comparison operation that ensures that 12 is smaller than 1.

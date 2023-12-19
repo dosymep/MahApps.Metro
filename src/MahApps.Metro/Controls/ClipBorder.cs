@@ -6,9 +6,9 @@ using System;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// Represents a border whose contents are clipped within the bounds

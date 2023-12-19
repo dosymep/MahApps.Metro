@@ -6,7 +6,7 @@ using System.Security;
 using System.Windows;
 using System.Windows.Input;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     internal static class CommandHelpers
     {

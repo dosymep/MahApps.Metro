@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Controls.Dialogs;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls.Dialogs;
 using MetroDemo.ExampleWindows;
 
 namespace MetroDemo
@@ -90,7 +90,7 @@ namespace MetroDemo
 
         private void LaunchMahAppsOnGitHub(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/MahApps/MahApps.Metro");
+            System.Diagnostics.Process.Start("https://github.com/MahApps/pyRevitLabs.MahAppsMetro");
         }
 
         private void LaunchSizeToContentDemo(object sender, RoutedEventArgs e)
@@ -118,7 +118,7 @@ namespace MetroDemo
         {
             Process.Start(new ProcessStartInfo
                           {
-                              FileName = "https://github.com/MahApps/MahApps.Metro.IconPacks",
+                              FileName = "https://github.com/MahApps/pyRevitLabs.MahAppsMetro.IconPacks",
                               // UseShellExecute is default to false on .NET Core while true on .NET Framework.
                               // Only this value is set to true, the url link can be opened.
                               UseShellExecute = true,
@@ -377,7 +377,7 @@ namespace MetroDemo
             navWin.Title = "Navigation Demo";
 
             //uncomment the next two lines if you want the clean style.
-            //navWin.Resources.MergedDictionaries.Add(new ResourceDictionary() { Source = new Uri("pack://application:,,,/MahApps.Metro;component/Styles/Clean/MetroWindow.xaml", UriKind.Absolute) });
+            //navWin.Resources.MergedDictionaries.Add(new ResourceDictionary() { Source = new Uri("pack://application:,,,/pyRevitLabs.MahAppsMetro;component/Styles/Clean/MetroWindow.xaml", UriKind.Absolute) });
             //navWin.SetResourceReference(StyleProperty, "MahApps.Styles.MetroWindow.Clean");
 
             navWin.Show();

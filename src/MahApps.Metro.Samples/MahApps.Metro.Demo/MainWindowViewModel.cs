@@ -16,8 +16,8 @@ using System.Windows.Documents;
 using System.Windows.Media;
 using MetroDemo.Models;
 using System.Windows.Input;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Controls.Dialogs;
+using pyRevitLabs.MahAppsMetro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls.Dialogs;
 using MetroDemo.Core;
 using MetroDemo.ExampleViews;
 using NHotkey;
@@ -91,9 +91,9 @@ namespace MetroDemo
 
             this.FlipViewImages = new Uri[]
                                   {
-                                      new Uri("pack://application:,,,/MahApps.Metro.Demo;component/Assets/Photos/Home.jpg", UriKind.RelativeOrAbsolute),
-                                      new Uri("pack://application:,,,/MahApps.Metro.Demo;component/Assets/Photos/Privat.jpg", UriKind.RelativeOrAbsolute),
-                                      new Uri("pack://application:,,,/MahApps.Metro.Demo;component/Assets/Photos/Settings.jpg", UriKind.RelativeOrAbsolute)
+                                      new Uri("pack://application:,,,/pyRevitLabs.MahAppsMetro.Demo;component/Assets/Photos/Home.jpg", UriKind.RelativeOrAbsolute),
+                                      new Uri("pack://application:,,,/pyRevitLabs.MahAppsMetro.Demo;component/Assets/Photos/Privat.jpg", UriKind.RelativeOrAbsolute),
+                                      new Uri("pack://application:,,,/pyRevitLabs.MahAppsMetro.Demo;component/Assets/Photos/Settings.jpg", UriKind.RelativeOrAbsolute)
                                   };
 
             this.BrushResources = this.FindBrushResources();
@@ -453,7 +453,7 @@ namespace MetroDemo
             {
                 var theme = ThemeManager.Current.DetectTheme(Application.Current.MainWindow);
 
-                var resources = theme.LibraryThemes.First(x => x.Origin == "MahApps.Metro").Resources.MergedDictionaries.First();
+                var resources = theme.LibraryThemes.First(x => x.Origin == "pyRevitLabs.MahAppsMetro").Resources.MergedDictionaries.First();
 
                 var brushResources = resources.Keys
                                               .Cast<object>()

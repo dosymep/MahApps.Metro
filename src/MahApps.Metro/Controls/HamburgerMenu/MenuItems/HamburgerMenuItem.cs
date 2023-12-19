@@ -5,9 +5,9 @@
 using System;
 using System.Windows;
 using System.Windows.Input;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// The HamburgerMenuItem provides an implementation for HamburgerMenu entries.

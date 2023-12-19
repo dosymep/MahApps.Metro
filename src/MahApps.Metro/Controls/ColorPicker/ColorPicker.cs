@@ -12,7 +12,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Threading;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = "PART_Popup", Type = typeof(Popup))]
     [TemplatePart(Name = "PART_ColorPaletteStandard", Type = typeof(ColorPalette))]

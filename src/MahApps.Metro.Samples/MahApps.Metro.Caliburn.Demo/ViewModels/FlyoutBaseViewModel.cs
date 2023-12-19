@@ -3,7 +3,7 @@
 // See the LICENSE file in the project root for more information.
 
 using Caliburn.Micro;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
 namespace Caliburn.Metro.Demo.ViewModels
 {

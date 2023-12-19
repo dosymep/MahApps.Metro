@@ -5,7 +5,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// Use the dialog coordinator to help you interfact with dialogs from a view model.

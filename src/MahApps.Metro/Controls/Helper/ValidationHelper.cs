@@ -4,9 +4,9 @@
 
 using System.ComponentModel;
 using System.Windows;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public static class ValidationHelper
     {

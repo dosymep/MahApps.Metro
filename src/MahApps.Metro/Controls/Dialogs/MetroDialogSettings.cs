@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 using System.Windows;
 
-namespace MahApps.Metro.Controls.Dialogs
+namespace pyRevitLabs.MahAppsMetro.Controls.Dialogs
 {
     /// <summary>
     /// A class that represents the settings used by Metro Dialogs.

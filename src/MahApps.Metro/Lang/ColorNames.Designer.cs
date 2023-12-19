@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MahApps.Metro.Lang {
+namespace pyRevitLabs.MahAppsMetro.Lang {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace MahApps.Metro.Lang {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MahApps.Metro.Lang.ColorNames", typeof(ColorNames).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("pyRevitLabs.MahAppsMetro.Lang.ColorNames", typeof(ColorNames).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

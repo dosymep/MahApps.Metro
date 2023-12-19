@@ -6,7 +6,7 @@ using System.Windows.Controls;
 
 namespace MetroDemo
 {
-    using MahApps.Metro.Controls;
+    using pyRevitLabs.MahAppsMetro.Controls;
 
     public sealed partial class HamburgerMenuRipple : UserControl
     {

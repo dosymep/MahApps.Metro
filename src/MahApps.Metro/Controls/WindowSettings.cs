@@ -6,7 +6,7 @@ using ControlzEx.Standard;
 using System.Configuration;
 using System.Windows;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public interface IWindowPlacementSettings
     {

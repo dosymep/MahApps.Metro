@@ -5,7 +5,7 @@
 using System;
 using System.Windows.Media;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     /// <summary>
     /// This struct represent a Color in HSV (Hue, Saturation, Value)

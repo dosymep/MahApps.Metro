@@ -5,7 +5,7 @@
 using System.Threading;
 using System.Windows;
 
-namespace MahApps.Metro.Tests.TestHelpers
+namespace pyRevitLabs.MahAppsMetro.Tests.TestHelpers
 {
     using System.Diagnostics;
 

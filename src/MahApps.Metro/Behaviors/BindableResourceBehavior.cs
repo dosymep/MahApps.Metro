@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Shapes;
 using Microsoft.Xaml.Behaviors;
 
-namespace MahApps.Metro.Behaviors
+namespace pyRevitLabs.MahAppsMetro.Behaviors
 {
     public class BindableResourceBehavior : Behavior<Shape>
     {

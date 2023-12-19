@@ -5,9 +5,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using ControlzEx;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     [TemplatePart(Name = PART_ContentPresenter, Type = typeof(UIElement))]
     [TemplatePart(Name = PART_Separator, Type = typeof(UIElement))]

@@ -5,9 +5,9 @@
 using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 
-namespace MahApps.Metro.Tests
+namespace pyRevitLabs.MahAppsMetro.Tests
 {
     public partial class AutoWatermarkTestWindow : MetroWindow
     {

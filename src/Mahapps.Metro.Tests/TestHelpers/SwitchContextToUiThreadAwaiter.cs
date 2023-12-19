@@ -6,7 +6,7 @@ using System;
 using System.Runtime.CompilerServices;
 using System.Windows.Threading;
 
-namespace MahApps.Metro.Tests.TestHelpers
+namespace pyRevitLabs.MahAppsMetro.Tests.TestHelpers
 {
     public class SwitchContextToUiThreadAwaiter : INotifyCompletion
     {

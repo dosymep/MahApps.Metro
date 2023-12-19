@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using MahApps.Metro.Controls;
+using pyRevitLabs.MahAppsMetro.Controls;
 using Xunit;
 
-namespace MahApps.Metro.Tests.TestHelpers
+namespace pyRevitLabs.MahAppsMetro.Tests.TestHelpers
 {
     public static class WindowHelpers
     {

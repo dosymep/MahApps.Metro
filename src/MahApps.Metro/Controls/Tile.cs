@@ -6,9 +6,9 @@ using System;
 using System.ComponentModel;
 using System.Windows;
 using System.Windows.Controls;
-using MahApps.Metro.ValueBoxes;
+using pyRevitLabs.MahAppsMetro.ValueBoxes;
 
-namespace MahApps.Metro.Controls
+namespace pyRevitLabs.MahAppsMetro.Controls
 {
     public class Tile : Button
     {

@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Linq;
 using System.Windows.Data;
 
-namespace MahApps.Metro.Converters
+namespace pyRevitLabs.MahAppsMetro.Converters
 {
     [ValueConversion(typeof(object), typeof(object))]
     internal sealed class HamburgerMenuItemAccessibleConverter : IMultiValueConverter

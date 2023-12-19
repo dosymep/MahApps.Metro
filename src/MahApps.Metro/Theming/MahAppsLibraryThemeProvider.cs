@@ -5,10 +5,10 @@
 using System.Collections.Generic;
 using ControlzEx.Theming;
 
-namespace MahApps.Metro.Theming
+namespace pyRevitLabs.MahAppsMetro.Theming
 {
     /// <summary>
-    /// Provides theme resources from MahApps.Metro.
+    /// Provides theme resources from pyRevitLabs.MahAppsMetro.
     /// </summary>
     public class MahAppsLibraryThemeProvider : LibraryThemeProvider
     {
